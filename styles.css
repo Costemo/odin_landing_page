@@ -1,8 +1,18 @@
 * {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-.header
-.footer
+
+header {
+    background-color: darkslategray;
+    color:white;
+}
+
+footer {
+    background-color: darkslategray;
+    color:white;
+}
+
 .top {
     background-color: darkslategray;
+    color:white;
 }
