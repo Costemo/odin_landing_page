@@ -65,9 +65,29 @@ button {
 
 .random {
     padding:30px;
+    text-align: center;
     
 }
 
 .numbers {
     display: flex;
+    justify-content: space-around;
+}
+
+h3 {
+    border-color: blue;
+    border-style: dashed;
+    color:blue;
+    text-align: center;
+    padding:50px;
+    margin-top: 10px
+}
+
+.quote {
+    background-color: lightgray;
+    font-style: italic;
+    padding:30px
+}
+.bottom {
+    margin: 30px
 }
